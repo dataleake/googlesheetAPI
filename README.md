@@ -1,5 +1,5 @@
 # googlesheetAPI
-Using Google Sheets API
+Preparing the Google Sheets API
 
 
 1. Enable the Google Sheets API
